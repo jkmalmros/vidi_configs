@@ -1,3 +1,10 @@
 {
   "brandName": "Test"
+   
+  
+  "enabledExtensions": ["conflictSearch", "layerSearch", "skraafoto", "streetView", "session", "vectorLayers", "editor"],
+
+  
+  "searchConfig": {
+        "komkode": ["155"]
 }
